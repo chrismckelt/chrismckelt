@@ -1,9 +1,10 @@
 ### Hi there, I'm Chris 👋
 
-
-
-
 ---
+
+### 📕 Nuget packages
+
+<https://www.nuget.org/packages?q=mckelt>
 
 ### 📕 Latest Blog Posts
 
