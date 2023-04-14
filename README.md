@@ -1,10 +1,11 @@
-### Hi there, I'm Chris 👋
+### Hi
 
 ---
 
-### 📕 Nuget packages
-
-<https://www.nuget.org/packages?q=mckelt>
+[website]: https://mckelt.com
+[blog]: http://blog.mckelt.com
+[twitter]: https://twitter.com/chris_mckelt
+[linkedin]: https://linkedin.com/in/chris_mckelt
 
 ### 📕 Latest Blog Posts
 
@@ -19,9 +20,6 @@
 ➡️ [more blog posts...](https://dev.to/chris_mckelt)
 
 ---
+### 📕 Nuget packages
 
-
-[website]: https://mckelt.com
-[blog]: http://blog.mckelt.com
-[twitter]: https://twitter.com/chris_mckelt
-[linkedin]: https://linkedin.com/in/chris_mckelt
+<https://www.nuget.org/packages?q=mckelt>
