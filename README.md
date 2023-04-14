@@ -1,4 +1,5 @@
 ### Hi
+WA Dad with a focus on Software Engineering | Architecture | Cloud | DevOps | Engineering Management | Agile Delivery | Digital & Technology Strategy
 
 ---
 
