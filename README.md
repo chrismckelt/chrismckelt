@@ -1,6 +1,5 @@
 ### Hi
-WA Dad with a focus on Software Engineering | Architecture | Cloud | DevOps | Engineering Management | Agile Delivery | Digital & Technology Strategy
-
+Software Craftsman - loves a good PR. Happy to help on your next project. Please reach out to connect :)
 ---
 
 [website]: https://mckelt.com
