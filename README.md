@@ -1,5 +1,5 @@
 ### Hi
-Software Craftsman - loves a good PR. Happy to help on your next project. Please reach out to connect :)
+Software Developer & Cloud Architect :)
 ---
 
 [website]: https://mckelt.com
