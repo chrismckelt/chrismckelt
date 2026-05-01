@@ -10,7 +10,7 @@ Software Developer & Cloud Architect :)
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Azure to setup a new blog and domain](https://dev.to/chris_mckelt/using-azure-to-setup-a-new-blog-and-domain-4782)
+- [Choosing a Customer Identity Management System](https://blog.mckelt.com/articles/2024/choosing-a-customer-identity-management-system/)
 - [Azure IoT Edge – using Grafana on the Edge](https://dev.to/chris_mckelt/azure-iot-edge-using-grafana-on-the-edge-26na)
 - [Azure IoT Edge – using TimescaleDB on the Edge](https://dev.to/chris_mckelt/azure-iot-edge-using-timescaledb-on-the-edge-2ec1)
 - [Azure IoT Edge – Using Apache Nifi as a 3rd party container](https://dev.to/chris_mckelt/azure-iot-edge-3rd-party-containers-3mi3)
