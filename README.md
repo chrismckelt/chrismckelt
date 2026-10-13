@@ -1,5 +1,4 @@
-### Hi
-Software Developer & Cloud Architect :)
+### Hi :)
 ---
 
 [website]: https://mckelt.com
